@@ -1,0 +1,1 @@
+insert into account values(111, '1234', 200);
